@@ -1,6 +1,8 @@
 # ML-projects
-Some of my Machine Learning (SVM, Decision Trees, Random Forest, K Nearest Neighbors, Deep learning Neural Network) projects 
-# ANOVA-peelstrength
-EFFECTIVENESS OF DIFFERENT ADHESIVE SYSTEMS ON PEEL STRENGTH
+Some of my Machine Learning (Support Vector Machines, Decision Trees, Random Forest, K Nearest Neighbors, Deep Learning Neural Network) projects 
 
-This repo has all the files needed to execute this project. Data is thoroughly analyzed, ANOVA model is built and its model assumptions are addressed. The analysis requires a fixed effect three factor ANOVA model. Multiple comparisons for treatments and different factors are made. datasetcsv is the input file while ANOVA CODE.R is the R script used. 
+
+This repo has all the files needed to execute these projects. 
+svm_and_knn has all the files for Support Vector Machines and K Nearest Neighbors project.
+dt_rf has all the files for Decision Tree and Random Forest project. 
+
