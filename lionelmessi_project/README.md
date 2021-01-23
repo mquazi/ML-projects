@@ -7,3 +7,4 @@ Tried different optimizers such as adam, rmsprop. Tried different activation fun
 Rectified Linear Unit (relu) along with adam optimizer performs the best. 
 messi.csv is the input file while MessiProject.ipynb is the jupyter notebook script used. 
 webscrapingdata.R webscrapes the data for 2019/2020 season for Lionel Messi, output of which is messi.csv. 
+messi_project_model.h5 is the ML (DLNN) model saved for later use. 
