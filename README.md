@@ -1,5 +1,5 @@
 # ML-projects
-Some of my Machine Learning (Support Vector Machines, Decision Trees, Random Forest, K Nearest Neighbors, Deep Learning Neural Network) projects 
+Some of my Machine Learning (Support Vector Machines, Decision Trees, Random Forest, K Nearest Neighbors, Deep Learning aka Neural Network) projects 
 
 
 This repo has all the files needed to execute these projects. 
